@@ -4,3 +4,6 @@ Major: Economics
 Year: Alot
 From: Brighton
 Pogramming Background: I am illiterate
+
+Name: Sarah Clay
+Email: claysar2@msu.edu
