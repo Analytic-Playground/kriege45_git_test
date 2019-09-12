@@ -7,3 +7,6 @@ Pogramming Background: I am illiterate
 
 Name: Thomas DeMastri
 Email: demastri@msu.edu
+
+Name: Sarah Clay
+Email: claysar2@msu.edu
